@@ -76,7 +76,7 @@ A self-service AWS platform that lets **300+ teams** provision isolated S3 bucke
 - **GitHub Actions** pipelines that plan and apply only the teams that changed
 - Built-in onboarding and offboarding flows, tested with `terraform test`, `shellcheck` and `actionlint`
 
-### 🏗️ [aws-ecr-eks-deployment]([https://github.com/salehparsa/scalable-selfservice-platform](https://github.com/salehparsa/aws-ecr-eks-deployment))
+### 🏗️ [aws-ecr-eks-deployment](https://github.com/salehparsa/aws-ecr-eks-deployment)
 This repository demonstrates a CI/CD pipeline setup for deploying containerized applications to AWS Elastic Kubernetes Service (EKS) using Amazon Elastic Container Registry (ECR). The pipeline utilizes GitHub Actions for automating the build, test, and deployment processes.
 - **Terraform** module for `vpc` , `iam` and `ecr`
 - **GitHub Actions** pipelines that plan and apply changes
@@ -93,20 +93,7 @@ One-line description of the problem it solves.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salehparsa&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehparsa&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 ## 🎓 Education & certifications
 
 - 🎓 **B.Sc. Information Technology**, Multimedia University (MMU), Malaysia
 <!-- - 🏅 Add certifications here, e.g. AWS Certified Solutions Architect, CKA, HashiCorp Terraform Associate -->
-
----
-
-<p align="center"><i>Infrastructure should be boring, reproducible and reviewable. That's what I build.</i></p>
